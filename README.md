@@ -9,16 +9,25 @@ I designed Nigerian Youth Mentor GPT through OpenAI's platform to meet these nee
 
 ## Example Prompts and Answers
 
-1.
+1. 
+
 <img width="1214" height="793" alt="Screenshot 2025-08-06 at 12 29 34 PM" src="https://github.com/user-attachments/assets/99f3065d-5653-40d3-998a-1b1e7cf28bdc" />
 
 
+
+
 2.
+
 <img width="1213" height="797" alt="Screenshot 2025-08-06 at 12 33 39 PM" src="https://github.com/user-attachments/assets/5ea0f667-c121-4626-993c-52760ed7942a" />
 
 
+
+
 3.
+
 <img width="1201" height="797" alt="Screenshot 2025-08-06 at 12 39 32 PM" src="https://github.com/user-attachments/assets/85988286-0df5-4928-b83d-49e917816982" />
+
+
 
 
 ## What's Under The Hood?
